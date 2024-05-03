@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyB_XJSEEcPjMAowgQ6EkZ_6r-I8JI9jIWw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>454042386639</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>TestIOS.ToDoList</string>
+	<key>PROJECT_ID</key>
+	<string>todo-list-app-46c9d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>todo-list-app-46c9d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:454042386639:ios:26aeb5fc6750fbe38177ba</string>
+</dict>
+</plist>
